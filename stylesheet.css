@@ -1,0 +1,46 @@
+#header {
+  background-color: #ffffff;
+  width: 100%;
+  height: 40px;
+}
+
+#footer {
+  background-color: #e6e6e6;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 1px;
+}
+
+#navigation {
+  font-family: Helvetica;
+  font-size: 12px;
+  color: #000000;
+  padding-top: 2px;
+  float: right;
+  padding-right: 5px;
+}
+
+li {
+	/*Add your CSS here!*/
+	padding: 10px;
+	display: inline;
+	font-family: Futura, Tahoma, sans-serif;
+}
+
+.left {
+  position: relative;
+  left: 45%;
+  padding-top: 200px;
+}
+
+#bottomnavleft {
+  float: left;
+  padding-right: 2px;
+  font-size: 12px;
+}
+
+#bottomnavright {
+  float: right;
+  font-size: 12px;
+  padding-right: 20px;
+}
