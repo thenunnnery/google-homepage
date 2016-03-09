@@ -56,6 +56,9 @@ input {
   position: relative;
   padding-top: 20px;
   padding-bottom: 300px;
+  background-image:url(searchicon.png);
+  background-position:right;
+  background-repeat:no-repeat;
 }
 button {
   font-family: Helvetica;
